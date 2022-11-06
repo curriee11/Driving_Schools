@@ -3,11 +3,11 @@
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
  <p align="center">
- $\textcolor{yellow}{We will provide you security, afforadabliliy and satisfaction}$
+ $\textcolor{yellow}{We Will Provide You Security, Afforadabliliy And Satisfaction}$
 </p>
 
 
-## $\textcolor{blue}{One Stop solution for Learners who whats to learn driving whether its  two , three or four wheeler}$
+## $\textcolor{blue}{One Stop Solution For Learners Who Whats To Learn Driving Whether Its  Two , Three Or Four Wheeler}$
 
 <h3>Now it is easy to find safe, secure and affordable Driving Schools with <img src="https://github.com/curriee11/Driving_Schools/blob/main/secureGear.png" width="70"></h3>
 <h4>Register your Driving School</h4> 
