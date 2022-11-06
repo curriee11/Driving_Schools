@@ -3,7 +3,7 @@
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
  <p align="center">
- $\textcolor{grey}{We Will Provide You Security, Afforadabliliy And Satisfaction}$
+ $\textcolor{red}{We Will Provide You Security, Afforadabliliy And Satisfaction}$
 </p>
 
  <p align="center">
@@ -71,5 +71,5 @@ Types of training provided
 
  <h2 align="center">$\textcolor{blue}{ THANK YOU }$</h2>
 
-<h2 align="center">$\textcolor{yellow}{ HACK CODE }$</h2>
+<h2 align="center">$\textcolor{red}{ HACK CODE }$</h2>
 
