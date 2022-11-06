@@ -15,8 +15,7 @@
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"   width="25%" style="display: block; margin: 0 auto"/>
 <!--  <p>Two-wheelers</p> -->
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/2.jpg"  width="25%" style="display: block; margin: 0 auto"/>
-
-    <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="25%" style="display: block; margin: 0 auto"/>
+<img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="25%" style="display: block; margin: 0 auto"/>
     </div>
 
 
