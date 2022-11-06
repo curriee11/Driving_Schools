@@ -2,8 +2,8 @@
 <br>
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
-<p align="center" font-size="30px"></p>
-<p align="center">We will privide you security, afforadabliliy and satisfaction</b></p>
+<p align="center" font-size="30px">## $\textcolor{yellow}{We will privide you security, afforadabliliy and satisfaction}$</p>
+<p align="center"></b></p>
 
 
 ## $\textcolor{blue}{One Stop solution for Learners who whats to learn driving whether its  two , three or four wheeler}$
