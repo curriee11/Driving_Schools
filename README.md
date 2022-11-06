@@ -1,4 +1,4 @@
-#                                                                          Sleek Gear
+#                                                                        <p  align="center">  Sleek Gear</p>
 <br>
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
