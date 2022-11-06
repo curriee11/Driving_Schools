@@ -9,7 +9,7 @@
 
 ## $\textcolor{blue}{One Stop Solution For Learners Who Whats To Learn Driving Whether Its  Two , Three Or Four Wheeler}$
 
-<h3>Now it is easy to find safe, secure and affordable Driving Schools with <img src="https://github.com/curriee11/Driving_Schools/blob/main/secureGear.png" width="70"></h3>
+<h3>Now it is easy to find safe, secure and affordable Driving Schools with Sleek Gear</h3>
 <h4>Register your Driving School</h4> 
 <h4>Get yourself trained through best Driving Schools</h4>
 
