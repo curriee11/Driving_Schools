@@ -23,7 +23,7 @@
 Types of training provided
 
 <ul>
-<li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"  width="30" align="center"><2 wheelers</li>
+<li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"  width="100" align="center"><Two-wheelers</li>
 <li>4 wheelers</li>
 </ul>
 
