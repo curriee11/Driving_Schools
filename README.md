@@ -24,9 +24,12 @@ Types of training provided
 
 <ul>
   <div>
-<li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"  width="50%" display="flex" flex-direstion="row"><Two-wheelers</li>
+<li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"  width="50%" display="flex" flex-direstion="row">
+  <Two-wheelers</li>
 <li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/2.jpg"  width="50%" align="center">'
   Four wheelers</li>
+    <li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="50%" align="center">'
+ Drivers</li>
     </div>
 </ul>
 
