@@ -17,9 +17,10 @@
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="32%" style="display: block; margin: 0 auto"/>
 </div>
     
-       Two-wheelers                               Four-wheelers                             Personal Drivers 
+         Two-wheelers                               Four-wheelers                             Personal Drivers  
 
 
+<p align = center > $\textcolor{blue}What we do behind </p>
 <h4>Register your Driving School</h4> 
 <h4>Get yourself trained through best Driving Schools</h4>
 
