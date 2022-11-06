@@ -1,6 +1,6 @@
 #                                                                          Sleek Gear
 <br>
-<img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.png">
+<img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png">
 <p align="center">I'm a creative problem solving enthusiast guy, with a constantly growing love for emerging technologies.</p>
 <p align="center">I'm proud to say that <b>I can succesfully center an element with css.</b></p>
 
