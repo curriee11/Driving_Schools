@@ -1,4 +1,4 @@
-#                                                                        <p  align="center" font-size="30" color="blue">  Sleek Gear</p>
+#  <p  align="center" font-size="30" color="blue">  Sleek Gear</p>
 <br>
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
@@ -12,8 +12,9 @@
 <p ><h3 align="center">Now it is easy to find safe, secure and affordable Driving Schools with Sleek Gear</h3></p>
 <p></p>
   <div>
+  <p>
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"   width="30%" style="display: block; margin: 0 auto"/>
-<!--  <p>Two-wheelers</p> -->
+Two-wheelers</p>
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/2.jpg"  width="30%" style="display: block; margin: 0 auto"/>
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="30%" style="display: block; margin: 0 auto"/>
     </div>
