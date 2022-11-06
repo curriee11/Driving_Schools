@@ -5,6 +5,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;">
+  <p align="center">I'm a creative problem solving enthusiast guy, with a constantly growing love for emerging technologies.</p>
 
 <h3>Now it is easy to find safe, secure and affordable Driving Schools with <img src="https://github.com/curriee11/Driving_Schools/blob/main/secureGear.png" width="70"></h3>
 <h4>Register your Driving School</h4> 
