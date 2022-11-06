@@ -2,7 +2,7 @@
 <br>
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
-<p align="center" font-size="30px">## $\textcolor{yellow}{We will privide you security, afforadabliliy and satisfaction}$</p>
+## $\textcolor{yellow}{We will privide you security, afforadabliliy and satisfaction}$
 <p align="center"></b></p>
 
 
