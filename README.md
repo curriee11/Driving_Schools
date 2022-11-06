@@ -2,8 +2,8 @@
 <br>
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
-<p align="center">I'm a creative problem solving enthusiast guy, with a constantly growing love for emerging technologies.</p>
-<p align="center">I'm proud to say that <b>I can succesfully center an element with css.</b></p>
+<p align="center">One Stop solution for Learners who whats to lear driving whether its two, three or four wheeler</p>
+<p align="center">We will privide you security, afforadabliliy and satisfaction</b></p>
 
 <h3>Now it is easy to find safe, secure and affordable Driving Schools with <img src="https://github.com/curriee11/Driving_Schools/blob/main/secureGear.png" width="70"></h3>
 <h4>Register your Driving School</h4> 
