@@ -17,8 +17,10 @@
 
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/2.jpg"  width="30%" style="display: block; margin: 0 auto"/>
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="30%" style="display: block; margin: 0 auto"/>
- Two-wheelers
+
     </div>
+    
+     Two-wheelers
 
 
 <h4>Register your Driving School</h4> 
