@@ -10,6 +10,17 @@
 ## $\textcolor{blue}{One Stop Solution For Learners Who Whats To Learn Driving Whether Its  Two , Three Or Four Wheeler}$
 
 <p ><h3 align="center">Now it is easy to find safe, secure and affordable Driving Schools with Sleek Gear</h3></p>
+
+  <div>
+<img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"   width="800" height="600" style="display: block; margin: 0 auto"/>
+ <p>Two-wheelers</p>
+<li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/2.jpg"  width="50%" align="center">'
+  Four wheelers</li>
+    <li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="50%" align="center">'
+ Drivers</li>
+    </div>
+
+
 <h4>Register your Driving School</h4> 
 <h4>Get yourself trained through best Driving Schools</h4>
 
@@ -25,16 +36,7 @@
 
 Types of training provided
 
-<ul>
-  <div>
-<li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"  width="50%" display="flex" flex-direstion="row">
-  <Two-wheelers</li>
-<li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/2.jpg"  width="50%" align="center">'
-  Four wheelers</li>
-    <li><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="50%" align="center">'
- Drivers</li>
-    </div>
-</ul>
+
 
 Driving Schools can get themselves registered here
 Learners can find the best Driving School for themselves
