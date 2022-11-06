@@ -69,7 +69,7 @@ Types of training provided
 
 
 
- <h1 align="center">$\textcolor{blue}{ THANK YOU 😇}$</h1>
+ <h2 align="center">$\textcolor{blue}{ THANK YOU }$</h2>
 
-TEAM HACK CODE
+<h2 align="center">$\textcolor{yellow}{ HACK CODE }$</h2>
 
