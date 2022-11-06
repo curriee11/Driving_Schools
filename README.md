@@ -12,11 +12,12 @@
 <p ><h3 align="center">Now it is easy to find safe, secure and affordable Driving Schools with Sleek Gear</h3></p>
 <p></p>
   <div>
-  <p>
+ 
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/1.1.jpg"   width="30%" style="display: block; margin: 0 auto"/>
-Two-wheelers</p>
+
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/2.jpg"  width="30%" style="display: block; margin: 0 auto"/>
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="30%" style="display: block; margin: 0 auto"/>
+ Two-wheelers
     </div>
 
 
