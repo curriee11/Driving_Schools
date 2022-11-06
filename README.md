@@ -6,9 +6,9 @@
  $\textcolor{yellow}{We Will Provide You Security, Afforadabliliy And Satisfaction}$
 </p>
 
-
-## $\textcolor{blue}{One Stop Solution For Learners Who Whats To Learn Driving Whether Its  Two , Three Or Four Wheeler}$
-
+ <p align="center">
+ $\textcolor{blue}{One Stop Solution For Learners Who Whats To Learn Driving Whether Its  Two , Three Or Four Wheeler}$
+</p>
 <p ><h3 align="center">Now it is easy to find safe, secure and affordable Driving Schools with Sleek Gear</h3></p>
 
  <div>
