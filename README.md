@@ -1,5 +1,5 @@
 # 
-<h1 align="center">$\textcolor{red}{ SLEEK  GEAR}$</p></h1>
+<h1 align="center">$\textcolor{red}{ SLEEK\ GEAR}$</p></h1>
 <br>
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
