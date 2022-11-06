@@ -4,11 +4,11 @@
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
  <p align="center">
- $\textcolor{red}{We\ Will\ Provide\ You\ Security\ ,\ Afforadabliliy\ And\ Satisfaction}$
+ $\textcolor{#000080}{We\ Will\ Provide\ You\ Security\ ,\ Afforadabliliy\ And\ Satisfaction}$
 </p>
 
  <p align="center">
- $\textcolor{blue}{One\ Stop\ Solution\ For\ Learners\ Who\ Whats\ To\ Learn\ Driving\ Whether\ Its\  Two\ ,\ Three\ Or\ Four\ Wheeler}$
+ $\textcolor{#000080}{One\ Stop\ Solution\ For\ Learners\ Who\ Whats\ To\ Learn\ Driving\ Whether\ Its\  Two\ ,\ Three\ Or\ Four\ Wheeler}$
 </p>
 <p ><h3 align="center">Now it is easy to find safe, secure and affordable Driving Schools with Sleek Gear</h3></p>
 
@@ -58,11 +58,12 @@
 
 <h2 align="center">$\textcolor{blue}{Features}$</h2>
 <ul>
- <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(1).gif" width="50" align="center">&nbsp;Safety and Security</li>
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Images/facilities/5.png" width="50" align="center">&nbsp;Safety and Security</li>
  
- <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).jpg" width="50" align="center">&nbsp;Affordablity</li>
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Images/facilities/6.png" width="50" align="center">&nbsp;Affordablity</li>
  
- <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).jpg" width="50" align="center">&nbsp;Easy to use interface</li>
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Images/facilities/extra.png" width="50" align="center">&nbsp;Easy to use interface</li>
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Images/facilities/4.png" width="50" align="center">&nbsp;Active GPS</li>
  
 </ul>
 
