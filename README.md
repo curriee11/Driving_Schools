@@ -20,7 +20,7 @@
          Two-wheelers                               Four-wheelers                             Personal Drivers  
 
 
-<p align = center > $\textcolor{blue}What we do behind </p>
+<p align = center > $\textcolor{blue}{What we do behind} </p>
 <h4>Register your Driving School</h4> 
 <h4>Get yourself trained through best Driving Schools</h4>
 
