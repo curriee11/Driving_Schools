@@ -7,7 +7,7 @@
 </p>
 
  <p align="center">
- $\textcolor{blue}{One Stop Solution For Learners Who Whats To Learn Driving Whether Its  Two , Three Or Four Wheeler}$
+ $\textcolor{blue}{One\ Stop\ Solution\ For\ Learners\ Who\ Whats\ To\ Learn\ Driving\ Whether\ Its\  Two\ ,\ Three\ Or\ Four\ Wheeler}$
 </p>
 <p ><h3 align="center">Now it is easy to find safe, secure and affordable Driving Schools with Sleek Gear</h3></p>
 
