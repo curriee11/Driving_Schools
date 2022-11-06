@@ -3,7 +3,7 @@
 <p  align="center"><img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/1.png" >
  </p>
  <p align="center">
- $\textcolor{red}{We Will Provide You Security, Afforadabliliy And Satisfaction}$
+ $\textcolor{red}{We\ Will\ Provide\ You\ Security\ ,\ Afforadabliliy\ And\ Satisfaction\}$
 </p>
 
  <p align="center">
