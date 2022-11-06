@@ -20,17 +20,48 @@
          Two-wheelers                               Four-wheelers                             Personal Drivers  
 
 
-<p align = center > $\textcolor{blue}{What we do behind} </p>
-<h4>Register your Driving School</h4> 
-<h4>Get yourself trained through best Driving Schools</h4>
+<h2><p align = center > $\textcolor{blue}{What\ we\ do\ behind} $</p></h2>
+<ol>
+ <li>
+ Register your Driving School
+ </li>
+  <li>
+ We Check
+ 
+ <ul>
+  <li>
+1.Police Clearance Certificate - all this records till now
+  </li>
+  <li>
+2.Aaddhar Card
+  </li>
+  <li>
+3.Address
+  </li>
+  <li>
+4.Phone number
+  </li>
+  <li>
+5.Photo Id 
+  </li>
+  <li>
+6.Licence
+   </li>
+   </ul>
+   </li>
 
-<h4>Site provides with</h4>
+
+<li>Learners can choose the best teachers they want </li>
+ 
+  </ol>
+
+<h2 align="center">$\textcolor{blue}{Features}$</h2>
 <ul>
- <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(1).gif" width="30" align="center">&nbsp;Safety and Security</li>
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(1).gif" width="50" align="center">&nbsp;Safety and Security</li>
  
- <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).jpg" width="30" align="center">&nbsp;Affordablity</li>
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).jpg" width="50" align="center">&nbsp;Affordablity</li>
  
- <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).jpg" width="30" align="center">&nbsp;Easy to use interface</li>
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).jpg" width="50" align="center">&nbsp;Easy to use interface</li>
  
 </ul>
 
@@ -38,6 +69,7 @@ Types of training provided
 
 
 
-Driving Schools can get themselves registered here
-Learners can find the best Driving School for themselves
+ <h1 align="center">$\textcolor{blue}{ THANK YOU 😇}$</h1>
+
+TEAM HACK CODE
 
