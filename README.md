@@ -17,7 +17,7 @@
 <img src = "https://github.com/curriee11/Driving_Schools/blob/main/Images/rooms/3.jpg"  width="30%" style="display: block; margin: 0 auto"/>
 </div>
     
-     Two-wheelers Four-wheelers Personal Drivers 
+     Two-wheelers                      Four-wheelers                             Personal Drivers 
 
 
 <h4>Register your Driving School</h4> 
